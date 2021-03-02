@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Perf kernel by CannedShroud
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=RMX1992L1
+device.name2=RMX1991CN
+device.name3=RMX1993L2
+device.name4=X2
 device.name5=
-supported.versions=
+supported.versions=11.0
 supported.patchlevels=
 '; } # end properties
 
