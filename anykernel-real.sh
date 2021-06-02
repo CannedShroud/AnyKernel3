@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CannedShroud-R
+kernel.string=Englezos kernel for Redmi K20 Pro / Mi9T Pro
 do.devicecheck=1
 do.modules=0
 do.systemless=0
